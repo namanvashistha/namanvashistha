@@ -3,10 +3,15 @@
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include NodeJS, ReactJS, C++, Python and JavaScript.
 
 
-## Find me around the web 🌎:
+### Connect with me:
 
-- Sharing updates on <a href="https://www.linkedin.com/in/namanvashistha/">LinkedIn</a> 💼
+[<img align="left" alt="namanvashistha.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="namanvashistha | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="namanvashistha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="namanvashistha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="namanvashistha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -34,4 +39,10 @@ I'm a software engineer who is passionate about making open-source more accessib
 ---
 [![namanvashistha's github stats](https://github-readme-stats.vercel.app/api?username=namanvashistha&show_icons=true&hide_border=true&count_private=true)](https://github.com/namanvashistha)
 
+
+[website]: https://namanvashistha.github.io
+[twitter]: https://twitter.com/vashisthanaman
+[youtube]: https://youtube.com/UC7jPGNW1i4MHMUbFCJVbjGw
+[instagram]: https://instagram.com/vashisthanaman
+[linkedin]: https://linkedin.com/in/namanvashistha
 
