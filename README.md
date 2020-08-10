@@ -42,7 +42,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 [website]: https://namanvashistha.github.io
 [twitter]: https://twitter.com/vashisthanaman
-[youtube]: https://youtube.com/UC7jPGNW1i4MHMUbFCJVbjGw
+[youtube]: https://www.youtube.com/channel/UC7jPGNW1i4MHMUbFCJVbjGw
 [instagram]: https://instagram.com/vashisthanaman
 [linkedin]: https://linkedin.com/in/namanvashistha
 
